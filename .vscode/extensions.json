@@ -3,7 +3,20 @@
   // Extension identifier format: ${publisher}.${name}. Example: vscode.csharp
 
   // List of extensions which should be recommended for users of this workspace.
-  "recommendations": ["runem.lit-plugin"],
+  "recommendations": [
+    "ms-ceintl.vscode-language-pack-zh-hans",
+    "ms-vscode.powershell",
+    "dbaeumer.jshint",
+    "eg2.vscode-npm-script",
+    "christian-kohler.path-intellisense",
+    "zignd.html-css-class-completion",
+    "codezombiech.gitignore",
+    "donjayamanne.git-extension-pack",
+    "dbaeumer.vscode-eslint",
+    "coenraads.bracket-pair-colorizer-2",
+    "runem.lit-plugin",
+    "hookyqr.beautify", 
+  ],
   // List of extensions recommended by VS Code that should not be recommended for users of this workspace.
   "unwantedRecommendations": []
 }

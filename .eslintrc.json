@@ -22,5 +22,13 @@
         "node": true
       }
     }
-  ]
+  ],
+  "eslint.options": {
+    "env":{
+        "es6":true
+    },
+    "parserOptions": {
+        "ecmaVersion": 7
+    }
+}
 }
